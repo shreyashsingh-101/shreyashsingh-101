@@ -30,7 +30,12 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [How I got into Development?](shreyashsingh101.hashnode.dev/how-i-got-into-development)
+<p align="left">
+<a href="https://shreyashsingh-101.hashnode.dev/how-i-got-into-development-cl73vbssy00ouodnvc0p55swc" title="How I got into Development?"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/4Mw7nkQDByk/upload/v1661107145716/MAHh2NtQit.jpeg" alt="How I got into Development?" width="250px" align="left" /></a>
+<a href="https://shreyashsingh-101.hashnode.dev/how-i-got-into-development-cl73vbssy00ouodnvc0p55swc" title="How I got into Development?"><strong>How I got into Development?</strong></a>
+<div><strong>21 Aug 2022</strong></div>
+<br/> I was thinking from a long time to start writing articles but didn't have enough motivation or ideas to do so (and because I am Lazy too).
+Then I came across Hash Node's Writeathon  and thought this was the perfect opportunity to make habit of writin... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
