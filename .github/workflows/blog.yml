@@ -17,7 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'ShreyashSingh-101' # Hashnode Username
-          BLOG_URL: 'shreyashsingh101.hashnode.dev' # Blog URL
+          STYLE: "blog-alternate"
           COUNT: 5 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
