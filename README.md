@@ -30,6 +30,7 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [How I got into Development?](shreyashsingh101.hashnode.dev/how-i-got-into-development)
 <!-- HASHNODE_BLOG:END -->
 
 
