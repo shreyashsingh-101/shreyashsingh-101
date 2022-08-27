@@ -31,7 +31,13 @@
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://shreyashsingh-101.hashnode.dev/how-i-got-into-development-cl73vbssy00ouodnvc0p55swc" title="How I got into Development?"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/4Mw7nkQDByk/upload/v1661107145716/MAHh2NtQit.jpeg" alt="How I got into Development?" width="250px" align="left" /></a>
+<a href="https://shreyashsingh-101.hashnode.dev/tools-and-resources-that-helped-me-in-becoming-a-better-web-developer-cl7cfepq809i49ynv5hm2horz" title="Tools and resources that helped me in becoming a better web developer"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/9SoCnyQmkzI/upload/v1661350085413/coJt7-Xd8.jpeg" alt="Tools and resources that helped me in becoming a better web developer" width="250px" align="left" /></a>
+<a href="https://shreyashsingh-101.hashnode.dev/tools-and-resources-that-helped-me-in-becoming-a-better-web-developer-cl7cfepq809i49ynv5hm2horz" title="Tools and resources that helped me in becoming a better web developer"><strong>Tools and resources that helped me in becoming a better web developer</strong></a>
+<div><strong>27 Aug 2022</strong></div>
+<br/> When you are just starting out in the field of development, if your efforts are combined with right tools and resources, you can learn a lot of things in a very short amount of time.
+When I joined college, I had the guidance of my seniors which made ... </p> <br/> <br/>
+<p align="left">
+<a href="https://shreyashsingh-101.hashnode.dev/how-i-got-into-development-cl73vbssy00ouodnvc0p55swc" title="How I got into Development?"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/4Mw7nkQDByk/upload/v1661107145716/MAHh2NtQit.jpeg" alt="How I got into Development?" width="250px" align="right" /></a>
 <a href="https://shreyashsingh-101.hashnode.dev/how-i-got-into-development-cl73vbssy00ouodnvc0p55swc" title="How I got into Development?"><strong>How I got into Development?</strong></a>
 <div><strong>21 Aug 2022</strong></div>
 <br/> I was thinking from a long time to start writing articles but didn't have enough motivation or ideas to do so (and because I am Lazy too).
