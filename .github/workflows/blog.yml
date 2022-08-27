@@ -17,6 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'ShreyashSingh-101' # Hashnode Username
+          URL: 'shreyashsingh101.hashnode.dev'
           STYLE: "blog-alternate"
           COUNT: 5 # MAX Visisble
         env:
